@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there,
-
-I am currently learning the MERN stack, developed many projects using the same, and looking for any kind of work in the field of web development.
+I’m currently learning Web3 and blockchain. <br />
+I’m looking to collaborate on web development projects. <br />
+Ask me about ReactJs, NodeJs, MongoDB, HTML, CSS, TailwindCSS.<br /> <br />
+How to reach me: <br />
+[LinkedIn](https://www.linkedin.com/in/prasanna-gramopadhye-1791701b9/)  [Twitter](https://twitter.com/gramopadhye37)
