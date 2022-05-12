@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there,
+
+I am currently learning the MERN stack, developed many projects using the same, and looking for any kind of work in the field of web development.
