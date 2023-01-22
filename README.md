@@ -3,19 +3,13 @@
 <!--
 **gramo37/gramo37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Innovative Frontend Developer with expertise in HTML, CSS, Javascript, React, Tailwind CSS, and many other modern libraries and frameworks. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m currently learning Web3 and blockchain. <br />
-I’m looking to collaborate on web development projects. <br />
-Ask me about ReactJs, NodeJs, MongoDB, HTML, CSS, TailwindCSS.<br /> <br />
+I am a passionate Web developer and here's what I can offer - 
+1) Creating Reusable Components in React 
+2) Building custom hooks for API Integration 
+3) Understand the code base and create documentation
+4) Reduce the loading time by using best practices
+5) Learn any kind of frontend technology if required
 How to reach me: <br />
 [LinkedIn](https://www.linkedin.com/in/prasanna-gramopadhye-1791701b9/)  [Twitter](https://twitter.com/gramopadhye37)
