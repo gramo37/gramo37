@@ -14,14 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Innovative Frontend Developer with expertise in HTML, CSS, Javascript, React, Tailwind CSS, and many other modern libraries and frameworks. 
-
-I am a passionate Web developer and here's what I can offer - 
-- Creating Reusable Components in React 
-- Building custom hooks for API Integration 
-- Understand the code base and create documentation
-- Reduce the loading time by using best practices
-- Learn any kind of frontend technology if required <br />
+Innovative FullStack Developer with expertise in TypeScript, Node.js, React, Next.js, Prisma, GraphQL, and trpc.
 
 Looking forward to collaborate and learn.
 
